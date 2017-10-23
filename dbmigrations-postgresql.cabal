@@ -48,7 +48,7 @@ test-suite dbmigrations-postgresql-tests
     base >= 4 && < 5,
     dbmigrations >= 2,
     HDBC >= 2.2.1,
-    HDBC-postgresql == 2.3.2.4,
+    HDBC-postgresql >= 2.3.2.4,
     process >= 1.1,
     HUnit >= 1.2
 
